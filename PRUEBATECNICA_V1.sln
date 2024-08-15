@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRUEBATECNICA_V1", "PRUEBATECNICA_V1\PRUEBATECNICA_V1.csproj", "{930FF500-432C-44D3-BAB5-7178C6321900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "DB\DB.csproj", "{482E229A-7B9F-4C29-8F0D-DAE1F189435B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{930FF500-432C-44D3-BAB5-7178C6321900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930FF500-432C-44D3-BAB5-7178C6321900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930FF500-432C-44D3-BAB5-7178C6321900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930FF500-432C-44D3-BAB5-7178C6321900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{482E229A-7B9F-4C29-8F0D-DAE1F189435B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{482E229A-7B9F-4C29-8F0D-DAE1F189435B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{482E229A-7B9F-4C29-8F0D-DAE1F189435B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{482E229A-7B9F-4C29-8F0D-DAE1F189435B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5D345FE-BF9B-442F-B456-329C50AF450F}
+	EndGlobalSection
+EndGlobal
